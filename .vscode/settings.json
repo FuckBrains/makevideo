@@ -1,0 +1,5 @@
+{
+    "files.autoGuessEncoding": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"]
+}
